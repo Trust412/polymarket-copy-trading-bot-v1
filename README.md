@@ -50,7 +50,8 @@ This project is a Polymarket Copy Trading Bot that allows users to automatically
     ```bash
     npm run start
     ```
-7. Choose reasonable location for the bot(Many users faced this problem, read this carefully before setting up the bot):
+7. ⚠ Choose reasonable location for the bot(Many users faced this problem, read this carefully before setting up the bot):
+
    For users facing IP address-related access issues with Polymarket due to geographic restrictions, I recommend using [tradingvps.io](https://tradingvps.io) with the Germany location. This VPS service offers ultra-low latency and is physically close to Polymarket’s servers, ensuring faster response times and a smoother trading experience. It is specifically optimized for traders and easy to set up, making it an excellent choice for both beginners and experienced users looking to avoid IP-based blocks.
  
 ## Contributing
